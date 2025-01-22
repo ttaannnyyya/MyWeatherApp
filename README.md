@@ -25,3 +25,5 @@ Used to obtain the user's latitude and longitude coordinates for accurate weathe
 
   •Weather API:
 Used to fetch weather data based on the user's location or the entered city name.
+
+# Live Link- https://delicate-gecko-a7b7c1.netlify.app/
